@@ -1,7 +1,7 @@
 Summary:	Command line tool to create/retrieve/delete accounting objects
 Name:		nfacct
 Version:	1.0.0
-Release:	1
+Release:	2
 License:	GPLv2+
 Group:		System/Kernel and hardware
 URL:		http://www.netfilter.org/projects/nfacct/index.html

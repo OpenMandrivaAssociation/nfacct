@@ -4,7 +4,7 @@ Version:	1.0.2
 Release:	1
 License:	GPLv2+
 Group:		System/Kernel and hardware
-URL:		http://www.netfilter.org/projects/nfacct/index.html
+URL:		https://www.netfilter.org/projects/nfacct/index.html
 Source0:	http://www.netfilter.org/projects/nfacct/files/%{name}-%{version}.tar.bz2
 Source1:	http://www.netfilter.org/projects/nfacct/files/%{name}-%{version}.tar.bz2.sig
 BuildRequires:	pkgconfig
